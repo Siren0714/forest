@@ -1,0 +1,121 @@
+header{
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(22, 179, 8) 0px 0px 20px;
+    text-align: center;
+    padding-top: 10px;
+    vertical-align: -500px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    height: 140px; 
+    width: 100%;
+    background-image: url(https://avatars.mds.yandex.net/i?id=9676c8581bcab33543a4d1a33f8691c1_l-7549373-images-thumbs&n=13);
+}
+
+main{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background: linear-gradient(to right, rgb(47, 70, 52), rgb(46, 177, 75));
+}
+
+.left{
+    float: left;
+    width: 46%;
+    height: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 2%;
+    font-size: 22px;
+    text-align: left;
+}
+
+.left a{
+    color: rgb(157, 252, 255);
+}
+
+.right{
+    float: right;
+    width: 50%;
+    margin-left: 2%;
+    height: 100%;
+}
+
+.right img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: right;
+    padding-right: 20px;
+}
+
+.right iframe{
+    padding-bottom: 20px;
+    float: right;
+    padding-right: 20px;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    background: linear-gradient( to right, rgb(82, 122, 96), rgb(50, 68, 55));
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.f_left{
+    width: 15%;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    color: rgb(228, 196, 255);
+}
+
+.f_left img{
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.f_left a{
+    color: rgb(228, 196, 255);
+}
+
+.f_right_1{
+    width: 65%;
+    float: right;
+    font-size: 30px;
+    text-align: right;
+    padding: 20px;
+    color: aliceblue;
+}
+
+.f_right_1 img{
+    padding-bottom: 20px;
+}
+
+.f_right_1 a{
+    color: rgb(206, 255, 196);
+}
+
+.f_right_2{
+    width: 15%;
+    float: right;
+    font-size: 30px;
+    text-align: right;
+    padding: 20px;
+    color: aliceblue;
+}
+
+.f_right_2 img{
+    padding-bottom: 20px;
+    padding-top: 60px;
+}
+
+.f_right_2 a{
+    color: rgb(196, 200, 255);
+}
